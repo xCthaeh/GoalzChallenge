@@ -7,7 +7,7 @@ This is the starting point for the #WizardsInTech Intro to React Workshop. To ge
 3. Run npm install (this requires that you previously set up node on your computer)
 4. To start the app run npm run dev
 5. The app should be running on https://localhost:1234
-6. If you see a webpage that says Loading... you are all set!
+6. If you see a webpage that says Hiya you are all set!
 
 How to install Node:
 https://nodejs.org/en/download/
