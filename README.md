@@ -1,15 +1,13 @@
 # Goalz
 
-This is the starting point for the #WizardsInTech Intro to React Workshop. To get started:
+This is the finished #WizardsInTech React workshop!
 
-1. Clone this Repository (Also star it if you feel inclined)
-2. On your computer cd into the Goalz Folder
-3. Run npm install (this requires that you previously set up node on your computer)
-4. To start the app run npm run dev
-5. The app should be running on https://localhost:1234
-6. If you see a webpage that says Hiya you are all set!
+1. This is the finished version of the Goalz App!
+2. Well almost there is a bug - currently we can simply click add goal without filling out our form and it will add a blank goal.
+3. The challenge is:
 
-How to install Node:
-https://nodejs.org/en/download/
+- Prevent the user from being able to add a blank goal!
+
+4. The first person to tweet me with a solution - it must be commited to a repo so I can check it out - will receive their choice of any on sale Udemy course.
 
 Any questions feel free to reach out to Rahat on twitter (@rahatcodes)
